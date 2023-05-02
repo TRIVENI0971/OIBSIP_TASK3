@@ -14,4 +14,8 @@
 
 
 5.The user did'nt click on the checkbox,will appear in "COMPLETED" Section
+
+
+
+
 6.If user don't need any tasks to visibile,the user may click on the button "Delete All"
